@@ -5,6 +5,7 @@ A remake of my Discord Token Crawler but in C# with more features
 
 - [ ] Create *Way to save tokens into users choice of dir.*
 - [ ] Add *Link Scraper*
+- [ ] Add *GUI For Scraping And Token Grabbing*
 
 # How to Install.
 
